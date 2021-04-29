@@ -1,4 +1,4 @@
-# f20-fortune-teller-rcorry
-f20-fortune-teller-rcorry created by GitHub Classroom
+###NumberGuesser
 
-Fortune Teller assignment implemented as a number guessing game.
+##Description
+A basic Number Guessing game written in JavaScript and HTML.
