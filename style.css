@@ -1,0 +1,33 @@
+body {
+    background-color: lightgray;
+    margin: auto;
+    width:25%;
+    padding-top: 5%;
+}
+
+h1, h3, h2{
+    text-align: center;
+}
+
+
+div {
+    text-align: center;
+}
+input {
+    margin: 0 auto;
+}
+
+ul {
+    list-style-type: none;
+    text-align: center;
+    padding-right: 40px;
+}
+
+.small-input {
+    width: 35px;
+    margin-bottom: 10px;
+}
+
+.and {
+    display: inline;
+}
